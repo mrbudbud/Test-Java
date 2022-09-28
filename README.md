@@ -1,34 +1,31 @@
-# VAADIN
+<div align="center">
 
-jashasjdh.
+![Vaadin](https://raw.githubusercontent.com/vaadin/.github/main/profile/vaadin-banner.svg)
 
-## Installation
+### · [Docs](https://vaadin.com/docs) · 
+  <br>
+</div>
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## Deskripsi Repositori:
+Repositori ini terdiri dari 2 folder sebagai berikut:
 
-```bash
-pip install foobar
-```
+<table width="100%">
+<tr>
+  <td width="50%">
 
-## Usage
+  [**misc**](https://github.com/vaadin/flow)  
+  Folder ini berisi Kafka dan Zookeeper beserta file SQL.
+  
+   Dokumentasi: [kafka](https://kafka.apache.org/quickstart)
+  </td>
+  <td width="50%">
 
-```python
-import foobar
+  [**vaadin**](https://github.com/vaadin/hilla)    
+  Forlder ini berisi framework vadin.
+  
+  Dokumentasi: [vaadin](https://vaadin.com/docs/latest/guide/quick-start)
+    
+  </td>
+</tr>
+</table>
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
