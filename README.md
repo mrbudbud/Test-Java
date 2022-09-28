@@ -1,10 +1,4 @@
-<div align="center">
 
-![Vaadin](https://raw.githubusercontent.com/vaadin/.github/main/profile/vaadin-banner.svg)
-
-### · [Docs](https://vaadin.com/docs) · 
-  <br>
-</div>
 
 ## Deskripsi Repositori:
 Repositori ini terdiri dari 2 folder sebagai berikut:
@@ -28,4 +22,12 @@ Repositori ini terdiri dari 2 folder sebagai berikut:
   </td>
 </tr>
 </table>
+
+<div align="center">
+
+![Vaadin](https://raw.githubusercontent.com/vaadin/.github/main/profile/vaadin-banner.svg)
+
+### · [Docs](https://vaadin.com/docs) · 
+  <br>
+</div>
 
