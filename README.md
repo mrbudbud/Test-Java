@@ -13,14 +13,14 @@ Repositori ini terdiri dari 2 folder sebagai berikut:
 <tr>
   <td width="50%">
 
-  [**misc**](https://github.com/vaadin/flow)  
+  [**misc**](https://github.com/mrbudbud/Test-Java/tree/master/misc)  
   Folder ini berisi Kafka dan Zookeeper beserta file SQL.
   
    Dokumentasi: [kafka](https://kafka.apache.org/quickstart)
   </td>
   <td width="50%">
 
-  [**vaadin**](https://github.com/vaadin/hilla)    
+  [**vaadin**](https://github.com/mrbudbud/Test-Java/tree/master/vaadin)    
   Forlder ini berisi framework vadin.
   
   Dokumentasi: [vaadin](https://vaadin.com/docs/latest/guide/quick-start)
